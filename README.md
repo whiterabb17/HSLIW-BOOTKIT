@@ -27,24 +27,18 @@ there are 3 ways;
 - Most Samsung SSD's
 
 
-
-
-
 ## Photos
 
 - will upload photo of each Method mentioned (above), and it's Sub-Stages(preparing,loading,testing,unloading,verifying)
 
 
+## POC's (Proof Of Concepts)
 
 
+## Supported OS's (Operating Systems)
 
+Currently only has support for windows. (that is; For  loading and unloading the bootkit.)
 
-
-
-
-
-
-
-
+Once loaded, doesn't matter what os it is; it resides in the Firmware of the disk itself. so it will just do as instructed; either in advance(pre configured) or wait for further instructions(trigger words) (`example of a trigger word: echo "SOMETHING THAT SHOULD NOT WORK" >/dev/SOME/PATH/THAT/ABSOLUTELY/DOESNT/EXIST`
 
 
