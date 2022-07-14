@@ -17,7 +17,7 @@ so; you will yourself have to dump firmware and then; load this bootkit.
 there are 3 ways;
 - 1 `easiest and most 'non' risky method` if a disk already is loaded with the bootkit(that is you have loaded it in advance) then you can use a executable I will provide in the next few months.
 - 2 `JTAG` (you should know what this is)
-- 3 `hardest and most destructive(hazardous) method (for not only the disk, for the health as well(heat/poisonous hazards))` Wires soldered in place, on to the controller card, thereby making a hardware `bridge`, which will be used to `intercept`(aka tap) the data-flow between the **Disk** **Disks Controller** **The Computer system that is connected to the Disk**
+- 3 `hardest and most destructive(hazardous) method (for not only the disk, for the health as well(heat/poisonous hazards))` Wires soldered in place, on to the controller card, thereby making a hardware `bridge`, which will be used to `intercept`(aka tap) the data-flow between the `**Disk**`  `**Disks Controller**` `**The Computer system that is connected to the Disk**`
 
 
 
@@ -27,18 +27,18 @@ there are 3 ways;
 - Most Samsung SSD's
 
 
+# Supported OS's (Operating Systems)
+
+#### Currently only has support for windows. (that is; For  loading and unloading the bootkit.)
+
+Once loaded, doesn't matter what os it is; it resides in the Firmware of the disk itself. so it will just do as instructed; either in advance(pre configured) or wait for further instructions(trigger words) (`example of a trigger word: echo "SOMETHING THAT SHOULD NOT WORK" >/dev/SOME/PATH/THAT/ABSOLUTELY/DOESNT/EXIST`
+
+
+
 ## Photos
 
 - will upload photo of each Method mentioned (above), and it's Sub-Stages(preparing,loading,testing,unloading,verifying)
 
 
 ## POC's (Proof Of Concepts)
-
-
-## Supported OS's (Operating Systems)
-
-Currently only has support for windows. (that is; For  loading and unloading the bootkit.)
-
-Once loaded, doesn't matter what os it is; it resides in the Firmware of the disk itself. so it will just do as instructed; either in advance(pre configured) or wait for further instructions(trigger words) (`example of a trigger word: echo "SOMETHING THAT SHOULD NOT WORK" >/dev/SOME/PATH/THAT/ABSOLUTELY/DOESNT/EXIST`
-
 
