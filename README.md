@@ -1,5 +1,5 @@
 # HSLIW-BOOTKIT
-## Better known as  HDD SSD Loneicewolf Bootkit
+#### HDD SSD Loneicewolf Bootkit
 
 ## :radioactive: WARNING :radioactive:
 ## Please before continuing; read both the `DISCLAIMER.MD` and `WARNINGS.MD` files.
