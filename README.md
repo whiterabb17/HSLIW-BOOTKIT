@@ -1,8 +1,10 @@
-# HSLIW-BOOTKIT
+## HSLIW-BOOTKIT
 #### HDD SSD Loneicewolf Bootkit
 
-## :radioactive: WARNING :radioactive:
-## Please before continuing; read both the `DISCLAIMER.MD` and `WARNINGS.MD` files.
+:radioactive: WARNING :radioactive:
+Please before continuing; read both the `DISCLAIMER.MD` and `WARNINGS.MD` files.
+Please also check out the Issues panel.
+
 
 
 this is a Bootkit at firmware level I made for some specific brands of SSD and HDD disks;
