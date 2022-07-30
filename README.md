@@ -1,7 +1,11 @@
 ## HSLIW-BOOTKIT
 #### HDD SSD Loneicewolf Bootkit
 
-:warning: this is under construction! :warning:
+# :warning: this is under construction! :warning:
+
+I am not done with this as I am still very very hesitant;
+but all I publish will be redacted. to not violate anything (anything on GitHub policies OR copyright, and so on) 
+
 
 
 :radioactive: WARNING :radioactive:
