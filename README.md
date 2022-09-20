@@ -3,6 +3,12 @@
 
 # :warning: this is under construction! :warning:
 
+```c
+Now I have decided when and how I will upload this; 
+I will upload a compiled version of the bootkit (very soon) perhaps before I begin CompTIA and a Google course, if not ill do it directly after.
+```
+
+
 I am not done with this as I am still very very hesitant;
 but all I publish will be redacted. to not violate anything (anything on GitHub policies OR copyright, and so on) 
 
